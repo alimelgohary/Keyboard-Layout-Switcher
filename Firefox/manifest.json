@@ -1,0 +1,42 @@
+{
+    "manifest_version": 2,
+    "name": "Keyboard Layout Switcher",
+    "version": "2024.11.2",
+    "description": "Instantly correct your typing errors caused by a mismatched keyboard layout with Keyboard Layout Fixer. Quickly switch between Arabic and English layouts and fix incorrectly typed text in a single step using the shortcut Ctrl+Shift+U.",
+    "icons": {
+        "128": "icons/128.png"
+    },
+	"background": {
+		"scripts": ["background.js"]
+	},
+    "browser_action": {},
+    "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": ["content.js"]
+    }],
+    "permissions": [
+        "activeTab",
+        "clipboardWrite",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "commands": {
+        "switch-layout": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+U",
+                "mac": "Command+Shift+U"
+            },
+            "description": "Change selected text layout"
+        }
+    },
+    "applications": {
+        "gecko": {
+            "id": "alimelgohary@github.com",
+            "strict_min_version": "91.0"
+        }
+    }
+}

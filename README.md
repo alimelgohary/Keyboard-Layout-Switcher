@@ -1,4 +1,4 @@
-# Keyboard Layout Switcher
+# Keyboard Layout Switcher Browser Extension
 
 ### Effortlessly Fix Typing Errors with Keyboard Layout Fixer
 

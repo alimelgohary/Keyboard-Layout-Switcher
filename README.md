@@ -1,7 +1,33 @@
-# Keyboard-Layout-Switcher
-### This extension instantly correct your typing errors caused by a mismatched keyboard layout with Keyboard Layout Fixer. Quickly switch between Arabic and English layouts and fix incorrectly typed text in a single step using the shortcut Ctrl+Shift+U.
+# Keyboard Layout Switcher
 
+### Effortlessly Fix Typing Errors with Keyboard Layout Fixer
 
-#### Keyboard Layout Fixer is a handy tool for bilingual users who frequently switch between Arabic and English. It detects when you've typed text in the wrong layout and quickly converts it to the correct language. No more retyping entire sentences due to layout errors—just press Ctrl+Shift+U, and Keyboard Layout Fixer will automatically adjust your text from Arabic to English or vice versa. Save time and type confidently in both languages without constant manual switches.
+The **Keyboard Layout Fixer** is an essential tool for bilingual users who frequently toggle between Arabic and English. This extension instantly corrects typing errors caused by a mismatched keyboard layout, allowing you to switch seamlessly between languages.
 
-#### Example use: "أثممخو ًخقمي!" > "Hello, World!"
+#### Key Features:
+- **Quick Switch**: Easily switch between Arabic and English layouts with a simple shortcut: **Ctrl + Shift + U**.
+- **Time Saver**: No need to retype entire sentences due to layout errors—just one press of a key!
+
+#### Example Usage:
+- **Incorrect Input**: "أثممخو ًخقمي!"  
+- **Corrected Output**: "Hello, World!"
+
+#### Save time and type confidently in both languages without constant manual switches!
+
+---
+
+# محول تخطيط لوحة المفاتيح
+
+### إصلاح الأخطاء الإملائية بسهولة مع مُصحح تخطيط لوحة المفاتيح
+
+يُعتبر **مصحح تخطيط لوحة المفاتيح** أداة أساسية للمستخدمين الثنائيي اللغة الذين يتنقلون بشكل متكرر بين العربية والإنجليزية. تقوم هذه الإضافة بتصحيح الأخطاء الكتابية الناتجة عن عدم تطابق تخطيط لوحة المفاتيح على الفور، مما يتيح لك التبديل بسلاسة بين اللغات.
+
+#### الميزات الرئيسية:
+- **تبديل سريع**: يمكنك بسهولة التبديل بين تخطيطات اللغة العربية والإنجليزية باستخدام اختصار بسيط: **Ctrl + Shift + U**.
+- **توفير الوقت**: لا حاجة لإعادة كتابة جمل كاملة بسبب الأخطاء في التخطيط — يكفي ضغط مفتاح واحد!
+
+#### مثال للاستخدام:
+- **إدخال غير صحيح**: "أثممخو ًخقمي!"  
+- **الناتج الصحيح**: "Hello, World!"
+
+#### وفر الوقت وكن واثقًا في الكتابة بكلتا اللغتين دون الحاجة إلى التبديلات اليدوية المستمرة!
